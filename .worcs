@@ -1,2 +1,7 @@
 worcs_version: 0.1.1.3
 creator: Lissa102
+checksums:
+  data.csv: 395d6abd001abf3760a1a794ef4c453c
+data:
+  data.csv:
+    codebook: codebook.Rmd
